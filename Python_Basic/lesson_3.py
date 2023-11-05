@@ -1,3 +1,5 @@
+# lesson 3
+
 var = " "
 new_var = bool(var)
 print(type(new_var), new_var)
