@@ -162,3 +162,4 @@ cython_debug/
 password.txt
 *.exe
 new_dir/
+.DS_Store
